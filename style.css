@@ -4,7 +4,7 @@ body{
     font-family: Helvetica;
     text-align: center;
 }
-.titulo{
+.titulo {
     color:rgb(125, 48, 212);
     font-weight: bold;
     font-size: 150px;
@@ -17,14 +17,14 @@ body{
 p{
     font-weight: bold;
 }
-.kokologoini{
+.kokologoini {
     width: 150px;
     height: 200px;
     border: solid 5px rgb(125, 48, 212);
     border-radius: 30px;
     background-color: rgb(4, 66, 236);
 }
-.redes{
+.redes {
     text-align: left;
     margin-left: 30px;
 }
